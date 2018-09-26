@@ -1,0 +1,14 @@
+# 全局属性
+my:
+  name: hok
+  age: 18
+
+# 全局对象
+user:
+  name: Jack
+  age: 20
+  number: ${random.int}
+  uuid: ${random.uuid}
+  max: ${random.int(10)}
+  value: ${random.value}
+  greeting: hi, i'm ${user.name}

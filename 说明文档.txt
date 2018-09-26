@@ -1,0 +1,7 @@
+springcloud-chapter1------------>中实现了springboot的初步搭建
+springcloud-chapter2------------>中用springboot加载test.properties配置文件
+springcloud-chapter3------------>中用springboot实现多配置文件的使用
+springcloud-chapter4------------>中用springboot实现Actuator运行状态监控
+springcloud-chapter5------------>使用springboot实现jpa数据操作
+springcloud-chapter6------------>使用springboot实现redis简单的String值得存取
+springcloud-chapter7------------>使用springboot实现Swagger2搭建RestFul在线API文档
